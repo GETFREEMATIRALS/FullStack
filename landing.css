@@ -144,10 +144,14 @@ a{
     display: block;
     float:left;
 }
-.javapic{
+.landingdiv1 .javapic{
    width: 90%;
    margin-top:25px ;
 }
+.landingdiv2 .javapic{
+    width: 80%;
+    margin-top:8px ;
+ }
 .landingdiv1 .imgg .imgpic{
     opacity: 0.2;
     width: 34%;
